@@ -6,7 +6,7 @@ export default function page(params) {
     return(
         <>
         <div className="header">
-            <Image src={banner}  className="headerImg img-swap" />
+            <Image src={banner} alt=''  className="headerImg img-swap" />
         </div>
         <div className="mid-content">
             <h1 className="title-text text-5xl">
@@ -23,17 +23,17 @@ export default function page(params) {
                         of spots is somewhat of an obsession of mine. I find myself spending large amounts 
                         of time just seeing if there is something amazing at the end of a road or waking up 
                         when it is still dark out to possibly glimpse an amazing sunrise. A sunrise that you 
-                        didn't know was going to be there until the moment it breaks; these are some of 
+                        didn&apos;t know was going to be there until the moment it breaks; these are some of 
                         the most amazing things in this world. Yes, sometimes there will be nothing at 
                         the end of the road and sometimes I get to my spot to find that it is overcast 
-                        and there will be no sunrise. But that doesn't matter, it is the journey more 
+                        and there will be no sunrise. But that doesn&apos;t matter, it is the journey more 
                         than the final image that excites me and keeps me looking for the next great image. 
                         Every one of my images has a story. Some images have amazing stories like 
                         waking up at three in the morning to go to an amazing spot to wait for the 
                         sunrise, or pushing over that next ridge to see what the view is like on the 
                         other side.  Other images have stories about me just happening to be in the right
-                            place at the right time and snapping the shot. So no matter the photo, I'm glad 
-                            for the story behind them because they all make up my journey of finding what's 
+                            place at the right time and snapping the shot. So no matter the photo, I&apos;m glad 
+                            for the story behind them because they all make up my journey of finding what&apos;s 
                             out there and see some amazing new sight of creation. I hope you enjoy my photos 
                             as much as I enjoy taking them!
                     </p>

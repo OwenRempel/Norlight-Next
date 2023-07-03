@@ -16,7 +16,7 @@ export default function Home() {
     <div className="aboutclip-text">
         <h2 className="text-2xl">Welcome to Norlight Photography</h2>
         <p className='text-lg'>A site dedicated to the amazing beauty of northern BC and Alberta. Through this adventure I have been able to see many places that I would not have visited otherwise. 
-          The last couple of years have been an awesome adventure and I can't wait to see where it takes me next! </p>
+          The last couple of years have been an awesome adventure and I can&apos;t wait to see where it takes me next! </p>
     </div>
     
 </div>

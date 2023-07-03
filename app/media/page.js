@@ -5,7 +5,7 @@ export default function page(params) {
     return(
         <>
             <div className="header">
-                <Image src={banner}  className="headerImg img-swap" />
+                <Image src={banner} alt=''  className="headerImg img-swap" />
             </div>
             <div className="mid-content">
                 <h1 className="title-text text-5xl">Videos</h1>
